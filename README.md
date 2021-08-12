@@ -39,9 +39,12 @@
 </p>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkanojiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Rishabh's github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkanojiya&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkanojiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Rishabh's github stats" />
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkanojiya&layout=compact&theme=tokyonight" />
+</p>
 
 
 
@@ -54,8 +57,6 @@
 
 
 <p align="center">
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rishabhkanojiy6" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="rishabhkanojiy6" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
