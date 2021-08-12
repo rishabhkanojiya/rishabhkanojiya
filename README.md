@@ -39,13 +39,9 @@
 </p>
 
 <br>
-<a> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkanojiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="RIshabh's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkanojiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Rishabh's github stats" />
 
-</a>
-<a> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkanojiya&layout=compact&theme=tokyonight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkanojiya&layout=compact&theme=tokyonight" />
 
 
 
