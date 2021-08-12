@@ -40,7 +40,6 @@
 
 <br>
 
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkanojiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="RIshabh's github stats" />
 
 
@@ -52,7 +51,6 @@
 <!-- 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-</p>
 
 <br>
 
