@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Rishabh Kanojiya</h1>
-<h3 align="center">A passionate self-taught FrontEnd developer from India.</h3>
+<h3 align="center">A passionate self-taught Full Stack developer from India.</h3>
 
 <br>
 
@@ -14,6 +14,8 @@
 - 💬 ask me about anything [here](mailto:rishabhkanojiya75@gmail.com), i am happy to help;
 
 <h3 align="center">languages and tools:</h3>
+<br>
+
 
 <p align="center">
 
@@ -36,13 +38,24 @@
 
 </p>
 
-<hr>
+<br>
 
-<!-- <p align="center">
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabhkanojiya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="RIshabh's github stats" />
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-</p> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkanojiya&layout=compact&theme=tokyonight" />
+
+
+
+
+<!-- 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+
+</p>
+
+<br>
+
 
 <p align="center">
 
