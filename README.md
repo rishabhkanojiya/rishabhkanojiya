@@ -70,5 +70,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/rishabhkanojiya/rishabhkanojiya/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/rishabhkanojiya/rishabhkanojiya/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
