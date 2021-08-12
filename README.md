@@ -56,13 +56,11 @@
 <br>
 
 
-<p align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rishabhkanojiy6" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="rishabhkanojiy6" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rishabh-kanojiya-805317148/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Rishabh Kanojiya" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="rishabhkanojiya" height="50" width="50" /></a>
-</p>
 </p>
 
 <hr>
