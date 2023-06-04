@@ -9,7 +9,7 @@
 
 <p align="center">
 
-- 🔭 I’m currently working as a [JS Developer](https://www.linkedin.com/in/rishabh-kanojiya-805317148/) in a company called SportzInteractive
+- 🔭 I’m currently working as a [SDE 1](https://www.linkedin.com/in/rishabh-kanojiya-805317148/) in a company called FYND
 - 🌱 I’m currently learning Typescript
 - 💬 ask me about anything [here](mailto:rishabhkanojiya75@gmail.com), i am happy to help;
 
