@@ -9,11 +9,13 @@
 
 <p align="center">
 
-- 🔭 I’m currently working as a [SDE 1](https://www.linkedin.com/in/rishabh-kanojiya-805317148/) in a company called FYND
-- 🌱 I’m currently learning Typescript
-- 💬 ask me about anything [here](mailto:rishabhkanojiya75@gmail.com), i am happy to help;
+- 🎓 Currently pursuing a Master of Science in Computer Science at Binghamton University
+- 👨‍💻 Aspiring Software Developer actively seeking internship opportunities for 2024
+- 💼 Formerly with [FYND](https://www.linkedin.com/in/rishabhkanojiya/), experienced Full Stack Developer ready for new challenges
+- 🌱 Actively learning and expanding skills in Dev-ops and Data Engineering
+- 💬 Open to answering any questions or providing assistance; feel free to reach out [here](mailto:rishabhkanojiya75@gmail.com)!
 
-<h3 align="center">languages and tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 <br>
 
 
