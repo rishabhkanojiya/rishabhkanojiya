@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Rishabh Kanojiya</h1>
-<h3 align="center">A passionate self-taught Full Stack developer from India.</h3>
+<h3 align="center">A Passionate self-taught Full Stack Developer based in India.</h3>
 
 <br>
 
@@ -21,6 +21,12 @@
 
 <p align="center">
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,sass,postgres,mongodb,graphql,nodejs,express,docker,kubernetes,githubactions,aws,azure,github,linux" />
+</a>
+
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -35,6 +41,7 @@
 
 
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
 
 </p>
 
